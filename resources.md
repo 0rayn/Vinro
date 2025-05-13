@@ -1,0 +1,5 @@
+- https://austinhenley.com/blog/challengingprojects.html
+- https://www.averylaird.com/programming/the%20text%20editor/2017/09/30/the-piece-table#a-rope
+- https://www.cs.unm.edu/~crowley/papers/sds.pdf
+- https://web.archive.org/web/20160308183811/http://1017.songtrellisopml.com/whatsbeenwroughtusingpiecetables
+- https://web.archive.org/web/20160422163943/https://www.catch22.net/tuts/piece-chains
